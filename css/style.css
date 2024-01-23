@@ -9689,6 +9689,33 @@ textarea.form-control {
     font-size: 14px;
     line-height: 22px;
 }
+#iconnect-info{
+  font-family: 'Open Sans', sans-serif;
+  color: #000;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+#agile-info{
+  font-family: 'Open Sans', sans-serif;
+  color: #000;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+#omni-info{
+  font-family: 'Open Sans', sans-serif;
+  color: #000;
+  font-size: 14px;
+  line-height: 22px;
+}
+
+#integration-info{
+  font-family: 'Open Sans', sans-serif;
+  color: #000;
+  font-size: 14px;
+  line-height: 22px;
+}
 span.separator.center {
   margin-right: auto;
   margin-left: auto;
